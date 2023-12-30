@@ -2,6 +2,7 @@ timestamp = 1703833044
 
 # client.dll
 dwEntityList = 24910160
+dwClientState = 5894556
 dwForceAttack = 23862896
 dwForceAttack2 = 23863040
 dwForceBackward = 23863616
