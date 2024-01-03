@@ -38,7 +38,7 @@ dwGlowManager = 25286576
 dwGlowObjectManager = 86614648
 dwInput = 86369792
 dwInterfaceLinkList = 26324712
-dwLocalPlayer = 25235272
+dwLocalPlayer = 25014536
 dwLocalPlayerPawn = 23891768
 dwPlayerPawn = 2028
 dwLocalPlayerController = 25235272
@@ -53,7 +53,7 @@ dwSensitivity_sensitivity = 64
 dwViewAngles = 25693632
 dwSensitivityPtr = 14613432
 dwSanitizedName = 1872
-dwViewMatrix = 25297232
+dwViewMatrix = 25667296
 dwViewRender = 25299352
 
 #engine2_dll
