@@ -17,6 +17,7 @@ dwClientState_PlayerInfo = 21184
 dwClientState_State = 264
 dwClientState_ViewAngles = 19856
 dwEntityList = 24910160
+dw_PlayerPawn = 2028
 dwForceAttack = 23862896
 dwForceAttack2 = 23863040
 dwForceBackward = 23863616
@@ -53,7 +54,7 @@ dwSensitivity_sensitivity = 64
 dwViewAngles = 25693632
 dwSensitivityPtr = 14613432
 dwSanitizedName = 1872
-dwViewMatrix = 25667296
+dwViewMatrix = 25297232
 dwViewRender = 25299352
 
 #engine2_dll
@@ -68,6 +69,7 @@ dwWindowWidth = 5860888
 
 # inputsystem.dll
 dwInputSystem = 218976
+dw_PawnHealth = 2040
 dwSetClanTag = 580272
 dwWeaponTable = 86374108
 dwWeaponTableIndex = 12908
@@ -81,6 +83,7 @@ interface_engine_cvar = 260764
 is_c4_owner = 4100384
 m_bDormant = 237
 m_bIsLocalPlayer = 13864
+m_bIsLocalPlayerController = 1744
 m_flSpawnTime = 66496
 m_pStudioHdr = 10576
 m_pitchClassPtr = 86221144
@@ -189,7 +192,7 @@ m_sSanitizedPlayerName = 1872
 m_szName = 3096
 m_szLastPlaceName = 13764
 m_thirdPersonViewAngles = 12776
-m_vecOrigin = 1344
+m_vecOrigin = 4644
 m_vecAbsOrigin = 200
 m_vecVelocity = 4924
 m_vecViewOffset = 3144
